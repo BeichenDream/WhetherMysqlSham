@@ -4,15 +4,15 @@
 
 
 ## GetServerInfo
-<br>
+
 ![INFO](https://raw.githubusercontent.com/BeichenDream/WhetherMysqlSham/master/png/ShamInfo.jpg)  
 
 
 ## Sham
-<br>
+
 ![Sham](https://raw.githubusercontent.com/BeichenDream/WhetherMysqlSham/master/png/Sham.jpg)  
 
 ## NoSham
-<br>
+
 ![NoSham](https://raw.githubusercontent.com/BeichenDream/WhetherMysqlSham/master/png/NoSham.jpg)  
 
