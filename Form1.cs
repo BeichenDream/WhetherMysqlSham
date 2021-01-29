@@ -32,7 +32,7 @@ namespace WhetherMysqlSham
         {
             string host = Host.Text;
             int port = Convert.ToInt32(Port.Text);
-            log.Text = "Log:\r\n";
+            log.Text = "Log:\r\n";;
             if (!Regex.IsMatch(host, @"^((2[0-4]\d|25[0-5]|[01]?\d\d?)\.){3}(2[0-4]\d|25[0-5]|[01]?\d\d?)$"))
             {
                 MessageBox.Show("ip error!");
