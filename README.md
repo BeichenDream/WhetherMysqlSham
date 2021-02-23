@@ -1,4 +1,11 @@
 # WhetherMysqlSham
+# 404StarLink 2.0 - Galaxy
+![](https://github.com/knownsec/404StarLink-Project/raw/master/logo.png)
+
+WhetherMysqlSham 是 404Team [星链计划2.0](https://github.com/knownsec/404StarLink2.0-Galaxy)中的一环，如果对WhetherMysqlSham有任何疑问又或是想要找小伙伴交流，可以参考星链计划的加群方式。
+
+- [https://github.com/knownsec/404StarLink2.0-Galaxy#community](https://github.com/knownsec/404StarLink2.0-Galaxy#community)
+
 ##
 ## 检测目标Mysql数据库是不是蜜罐,获取目标数据库详细信息
 ## [Release](https://github.com/BeichenDream/WhetherMysqlSham/raw/master/Release/WhetherMysqlSham.exe)
